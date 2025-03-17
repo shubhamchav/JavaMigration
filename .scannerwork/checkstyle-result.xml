@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.19.0">
+<file name="E:\SonarqubePOC\Sonarqube_Migration_Java\backend_Java\src\main\java\com\bezkoder\spring\jpa\h2\controller\TutorialController.java">
+</file>
+<file name="E:\SonarqubePOC\Sonarqube_Migration_Java\backend_Java\src\test\java\com\bezkoder\spring\jpa\h2\SpringBootJpaH2ApplicationTests.java">
+</file>
+<file name="E:\SonarqubePOC\Sonarqube_Migration_Java\backend_Java\src\test\java\com\bezkoder\spring\jpa\h2\TutorialControllerTest.java">
+</file>
+<file name="E:\SonarqubePOC\Sonarqube_Migration_Java\backend_Java\src\main\java\com\bezkoder\spring\jpa\h2\model\Tutorial.java">
+</file>
+<file name="E:\SonarqubePOC\Sonarqube_Migration_Java\backend_Java\src\main\java\com\bezkoder\spring\jpa\h2\repository\TutorialRepository.java">
+</file>
+<file name="E:\SonarqubePOC\Sonarqube_Migration_Java\backend_Java\src\main\java\com\bezkoder\spring\jpa\h2\SpringBootJpaH2Application.java">
+</file>
+</checkstyle>
